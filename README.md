@@ -15,7 +15,7 @@ student 1 | student 2
 # links
 [HYHYHYTH](https://www.google.com/maps)
 
-<h1 align="center">hello</h1>h1>
+<h1 align="center">hello</h1>
 
 
 # HTML
